@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+این سایت برای افراد زیر ۱۸ سال نیست. درباره ایمان به عیسی حرف می‌زند، و این محتوای دینی است، پس برای بزرگسالان نوشته شده است. اگر زیر ۱۸ سال هستی، لطفاً اطلاعات شخصی خودت را اینجا به اشتراک نگذار و به جاناتان ننویس.
+
+در اسپانیا، قانون می‌گوید کودک زیر ۱۴ سال پیش از به اشتراک گذاشتن اطلاعات شخصی آنلاین به رضایت پدر، مادر یا سرپرست نیاز دارد. قانون خود این سایت از آن سختگیرانه‌تر است: اگر زیر ۱۸ سال هستی، این سایت برای تو نیست.
 
 ## Changes
 
