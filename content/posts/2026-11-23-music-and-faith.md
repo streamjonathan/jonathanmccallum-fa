@@ -37,11 +37,6 @@ shareImage: /images/music-faith/ojenysarkissian.jpg
 <span class="ig-card__text"><span class="ig-card__name">Anita Lotfi</span>
 <span class="ig-card__note">به فارسی آواز می‌خواند.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DNv0darUFEz/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/reza_bakhtiyari_official.jpg" alt="Reza Bakhtiyari" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Reza Bakhtiyari</span>
-<span class="ig-card__note">به فارسی سرود پرستشی می‌خواند.</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/DG-q9p9x5eN/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/farsipraiseclub.jpg" alt="Farsi Praise Club" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Farsi Praise Club</span>
